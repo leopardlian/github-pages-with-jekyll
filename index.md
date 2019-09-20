@@ -1,4 +1,4 @@
-# Welcome to my blog
+# Welcome to my blog (Open source)
 
 I'm glad you are here. I plan to talk about Data analytic and Data sience.
 
